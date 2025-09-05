@@ -66,5 +66,3 @@ I am a Computer Science Engineering student at Brainware University, Kolkata, pa
 1. Clone this repository or download the ZIP.  
 2. Open `index.html` in your browser.  
 
-Or visit my live GitHub Pages link:  
-https://parthasarathisaha18.github.io/portfolio/
